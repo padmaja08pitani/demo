@@ -7,6 +7,7 @@ public class OrangeHRM
 {
 
 	public static void main(String[] args)
+	
 	{
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\12165\\Documents\\Selenium WebDriver\\Drivers\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
@@ -16,7 +17,3 @@ public class OrangeHRM
 	}
 
 }
-
-
-
-
